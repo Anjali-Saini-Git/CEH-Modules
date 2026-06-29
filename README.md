@@ -8,7 +8,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 
 | Module | Topics | Status |
 |--------|--------|--------|
-| [Module 1-2](./Module-01-02) | Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
+| [Module 1-2](https://github.com/Anjali-Saini-Git/CEH-Modules) | Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
 | Module 3 | Network Scanning | 📝 In Progress |
 
 ---
