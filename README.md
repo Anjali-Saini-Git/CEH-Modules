@@ -25,7 +25,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 ## 📬 Connect with Me
 
 - **TryHackMe:** [CipherDusk](https://tryhackme.com/p/CipherDusk)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **GitHub:** [Anjali-Saini-Git](https://github.com/Anjali-Saini-Git)
 - **LinkedIn:** [Anjali Saini](https://linkedin.com/in/anjalisaini92)
 
 ---
