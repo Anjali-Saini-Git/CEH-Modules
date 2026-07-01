@@ -27,7 +27,7 @@
 
 ---
 
-## 🔍 Tools Referenced
+## Tools Referenced
 - Google / DuckDuckGo / Bing
 - Google Hacking Database (GHDB)
 - Whois
