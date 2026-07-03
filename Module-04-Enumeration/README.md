@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tools Practiced
+## Tools Practiced
 - Nmap (service detection, scripts)
 - nmblookup (NetBIOS name query)
 - enum4linux (all-in-one SMB enumeration)
