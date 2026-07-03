@@ -10,15 +10,16 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 |--------|--------|--------|
 | [Module 1-2](https://github.com/Anjali-Saini-Git/CEH-Modules) | Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
 | [Module 3](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-03-Network_Scanning) | Network Scanning | Completed |
-| [Module 4] | Enumeration | In Progress |
+| [Module 4](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-04-Enumeration) | Enumeration | Completed |
 
 ---
 
-## 🛠️ Tools Covered So Far
+## Tools Covered So Far
 
 - **OSINT & Reconnaissance:** Google Hacking Database (GHDB), Whois, Netcraft, Shodan, OSINT Framework, Maltego, Recon-ng
 - **Network Scanning:** Nmap, Netdiscover, Advanced IP Scanner
 - **Lab Environments:** vsftpd (FTP Server), Windows CMD, Linux CLI
+- **Enumeration Tools:** enum4linux, nmblookup, smbclient, Netcat
 
 ---
 
@@ -29,7 +30,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 - **Goal:** Document my CEH preparation journey and help others preparing for the certification
 
 ---
-## 📬 Connect with Me
+## Connect with Me
 
 - **TryHackMe:** [CipherDusk](https://tryhackme.com/p/CipherDusk)
 - **GitHub:** [Anjali-Saini-Git](https://github.com/Anjali-Saini-Git)
