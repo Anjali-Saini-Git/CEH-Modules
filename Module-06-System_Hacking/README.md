@@ -22,7 +22,7 @@
 
 ### Metasploit Framework – Complete Attack Chain
 
-| Step | Tool/Command |
+| Step | Purpose |
 |------|-------------|
 | Create Payload | Generate malicious executable |
 | Set up Listener | Wait for incoming connection |
