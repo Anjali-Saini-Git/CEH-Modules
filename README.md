@@ -11,15 +11,19 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 | [Module 1-2](https://github.com/Anjali-Saini-Git/CEH-Modules) | Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
 | [Module 3](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-03-Network_Scanning) | Network Scanning | Completed |
 | [Module 4](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-04-Enumeration) | Enumeration | Completed |
+| [Module 5](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-05-Vulnerability_Assessment) | Vulnerability Assessment (Nessus, CVE, Scanning) | Completed |
+| [Module 6](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-06-System_Hacking) | System Hacking (Password Cracking, Metasploit, Mimikatz) | Completed |
+| Module 7 | Malware Threats | 📝 In Progress |
 
 ---
 
 ## Tools Covered So Far
 
 - **OSINT & Reconnaissance:** Google Hacking Database (GHDB), Whois, Netcraft, Shodan, OSINT Framework, Maltego, Recon-ng
-- **Network Scanning:** Nmap, Netdiscover, Advanced IP Scanner
-- **Lab Environments:** vsftpd (FTP Server), Windows CMD, Linux CLI
-- **Enumeration Tools:** enum4linux, nmblookup, smbclient, Netcat
+- **Network Scanning & Enumeration:** Nmap, Netdiscover, enum4linux, smbclient, nmblookup, Advanced IP Scanner
+- **Vulnerability Assessment:** Nessus, OpenVAS, Nikto, CVSS
+- **System Hacking:** John the Ripper, Hydra, Metasploit (msfvenom, msfconsole, Meterpreter), Mimikatz, Impacket
+- **Lab Environments:** Metasploitable2, Windows 10 (target), Kali Linux
 
 ---
 
