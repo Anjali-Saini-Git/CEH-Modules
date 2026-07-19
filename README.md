@@ -13,7 +13,8 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 | [Module 4](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-04-Enumeration) | Enumeration | Completed |
 | [Module 5](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-05-Vulnerability_Assessment) | Vulnerability Assessment (Nessus, CVE, Scanning) | Completed |
 | [Module 6](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-06-System_Hacking) | System Hacking (Password Cracking, Metasploit, Mimikatz) | Completed |
-| Module 7 | Malware Threats | 📝 In Progress |
+| [Module 7](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-07-Malware_Threats) | Malware Threats (Types, RAT Lab) | ✅ Completed |
+| Module 8 | Sniffing | 📝 In Progress |
 
 ---
 
@@ -23,6 +24,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 - **Network Scanning & Enumeration:** Nmap, Netdiscover, enum4linux, smbclient, nmblookup, Advanced IP Scanner
 - **Vulnerability Assessment:** Nessus, OpenVAS, Nikto, CVSS
 - **System Hacking:** John the Ripper, Hydra, Metasploit (msfvenom, msfconsole, Meterpreter), Mimikatz, Impacket
+- **Malware Analysis:** njRAT (practical lab), VirusTotal
 - **Lab Environments:** Metasploitable2, Windows 10 (target), Kali Linux
 
 ---
