@@ -13,7 +13,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 | [Module 4](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-04-Enumeration) | Enumeration | Completed |
 | [Module 5](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-05-Vulnerability_Assessment) | Vulnerability Assessment (Nessus, CVE, Scanning) | Completed |
 | [Module 6](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-06-System_Hacking) | System Hacking (Password Cracking, Metasploit, Mimikatz) | Completed |
-| [Module 7](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-07-Malware_Threats) | Malware Threats (Types, RAT Lab) | ✅ Completed |
+| [Module 7](https://github.com/Anjali-Saini-Git/CEH-Modules/tree/main/Module-07-Malware_Threats) | Malware Threats (Types, RAT Lab) | Completed |
 | Module 8 | Sniffing | 📝 In Progress |
 
 ---
@@ -31,7 +31,7 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 
 ## About This Repository
 
-- **Format:** Detailed PDF notes with commands, screenshots, and lab reports
+- **Format:** Detailed documentation with commands, screenshots, and lab reports
 - **Source:** CEH v13 course material + practical labs + hands-on research
 - **Goal:** Document my CEH preparation journey and help others preparing for the certification
 
