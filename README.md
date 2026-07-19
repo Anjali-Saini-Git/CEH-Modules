@@ -44,6 +44,6 @@ My personal documentation for the **CEH v13**. Organized by modules for easy ref
 
 ---
 
-Disclaimer: This repository contains educational content for CEH v13 preparation. All demonstrations are performed in controlled, isolated lab environments with explicit authorization. The techniques documented are intended to help security professionals understand attack vectors for better defense. Misuse of this information is strictly discouraged.
+Disclaimer: This repository contains educational content for CEH v13 preparation. All demonstrations are performed in controlled, isolated lab environments with explicit authorization. Misuse of this information is strictly discouraged.
 
 ⭐ **Star this repo** if you find it helpful!
